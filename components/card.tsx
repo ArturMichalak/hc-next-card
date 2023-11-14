@@ -14,7 +14,7 @@ export default function Card() {
         sora.className
       )}
     >
-      <div className="px-4">
+      <div className="px-4 text-[12px] leading-[0.875rem]">
         <Image className="rounded-2xl" src={src} alt="" />
 
         <div className="text-[10px] leading-[0.625rem] my-4">
